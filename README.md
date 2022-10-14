@@ -1,4 +1,4 @@
 # Hello! I'm Skota11
 I'm Japanese.
-## My skill
-Scratch,HTML,CSS,PHP,Python
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
