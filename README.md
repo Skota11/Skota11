@@ -1,7 +1,7 @@
 # Hello! I'm Skota11
 13yo / Japanese
 # SelfIntroduction
-MySkill : HTML,CSS,JS(Node.js),Python
+MySkill : HTML,CSS,JS(Node.js),Python,PHP
 # Links
 Twitter : [@Kota_pclive](https://twitter.com/Kota_pclive)  
 Qitta : [@Skota11](https://qiita.com/Skota11)  
