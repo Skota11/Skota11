@@ -4,7 +4,6 @@
 MySkill : HTML,CSS,JS(Node.js),Python,PHP
 # Links
 Twitter : [@Kota_pclive](https://twitter.com/Kota_pclive)  
-Twitter : [@Skota11](Twitter : [@Kota_pclive](https://twitter.com/Kota_pclive)  )  
 Qitta : [@Skota11](https://qiita.com/Skota11)  
 Zenn : [@Skota11](https://zenn.dev/skota11)  
 # MyApps
