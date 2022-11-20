@@ -1,5 +1,5 @@
 # Hello! I'm Skota11
-13yo / Japanese
+14yo / Japanese
 # SelfIntroduction
 MySkill : HTML,CSS,JS(Node.js),Python,PHP
 # Links
