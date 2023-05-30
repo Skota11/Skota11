@@ -20,7 +20,7 @@
 <a href="https://github.com/SKota11/portfolio">
 <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=Skota11&repo=portfolio&layout=compact&theme=transparent&hide_border=true&count_private=true" />
   </a>
-  <p><a href="https://skota11.com">skota11.com</a></p>
+  <p><a href="https://skota11.com">https://skota11.com</a></p>
  <br>
   <p>Made using Next.js.</p>
   <p>Hosted by Vercel</p>
