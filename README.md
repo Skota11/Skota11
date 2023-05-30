@@ -21,6 +21,11 @@
 <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=Skota11&repo=portfolio&layout=compact&theme=transparent&hide_border=true&count_private=true" />
   </a>
   <p><a href="https://skota11.com">https://skota11.com</a></p>
- <br>
-  <p>Made using Next.js.</p>
-  <p>Hosted by Vercel</p>
+  <img src="https://skillicons.dev/icons?i=nextjs,vercel" />
+  <br/>
+<h2>MyBlog</h2>
+<a href="https://github.com/SKota11/blog">
+<img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=Skota11&repo=blog&layout=compact&theme=transparent&hide_border=true&count_private=true" />
+  </a>
+  <p><a href="https://blog.skota11.com">https://blog.skota11.com</a></p>
+  <img src="https://skillicons.dev/icons?i=nextjs,netlify" />
