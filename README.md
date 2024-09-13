@@ -1,6 +1,6 @@
 <div align="center">
-  <h1>I'm Skota11. Welcome to MyGithubPage!🎉</h1>
-  <p>Japanese : こた</p>
+  <h1>I'm こた Welcome to MyGithubPage!🎉</h1>
+  <p>Id : skota11</p>
   <div>
 <a href="https://twitter.com/Kota_pclive">
 <img src="https://img.shields.io/badge/Twitter-1da1f2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
