@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>I'm こた Welcome to MyGithubPage!🎉</h1>
+  <h1>Welcome to MyGithubPage!🎉</h1>
   <p>Id : skota11</p>
   <div>
 <a href="https://twitter.com/Kota_pclive">
