@@ -17,9 +17,9 @@
  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Skota11&theme=react" />
  
 <h2>MyWebsite</h2>
-<a href="https://github.com/SKota11/portfolio">
-<img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=Skota11&repo=portfolio&layout=compact&theme=transparent&hide_border=true&count_private=true" />
+<a href="https://github.com/SKota11/astro-portfolio">
+<img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=Skota11&repo=astro-portfolio&layout=compact&theme=transparent&hide_border=true&count_private=true" />
   </a>
   <p><a href="https://skota11.com">https://skota11.com</a></p>
-  <img src="https://skillicons.dev/icons?i=nextjs,vercel" />
+  <img src="https://skillicons.dev/icons?i=astro,vercel" />
   <br/>
